@@ -1,4 +1,4 @@
-![MasterHead](file:///F:/PROJECTS/Profile/github-header-image.png)
+
 
 <!-- Stats -->
 <div align="center">
