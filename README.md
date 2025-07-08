@@ -1,3 +1,5 @@
+![MasterHead](file:///F:/PROJECTS/Profile/github-header-image.png)
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishakharekere&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
