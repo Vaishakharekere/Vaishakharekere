@@ -42,7 +42,7 @@
   <a href="mailto:vaishakharekere@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="28px" alt="Gmail" />
   </a>
-</div>
+</div><br>
 
 <!-- Visitor & Profile View Counter -->
 <div align="center">
